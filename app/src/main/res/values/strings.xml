@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Baby Needs</string>
+    <string name="title_activity_main">Baby Needs</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="hint_item">"Enter Item "</string>
+    <string name="hint_qty">Enter Quantity</string>
+    <string name="hint_color">Color</string>
+    <string name="hint_size">Size</string>
+    <string name="save_button">SAve</string>
+    <string name="sure_text">Are You Sure ?</string>
+    <string name="confirm_text">Confirm</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="sanackbar_undo_text">Undo</string>
+</resources>
